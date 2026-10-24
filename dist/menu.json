@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "name": "Crispy Chicken Burger",
+    "category": "Meals",
+    "price": 480,
+    "emoji": "🍔",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85",
+    "tag": "Bestseller",
+    "description": "Crispy chicken, fresh lettuce, tomato and house sauce in a toasted bun."
+  },
+  {
+    "id": 2,
+    "name": "Zinger Wrap",
+    "category": "Meals",
+    "price": 390,
+    "emoji": "🌯",
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=85",
+    "tag": "Popular",
+    "description": "Crunchy chicken wrapped with lettuce, pickles and creamy garlic sauce."
+  },
+  {
+    "id": 3,
+    "name": "Loaded Fries",
+    "category": "Snacks",
+    "price": 320,
+    "emoji": "🍟",
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=900&q=85",
+    "tag": "Student pick",
+    "description": "Golden fries topped with cheese sauce and a sprinkle of herbs."
+  },
+  {
+    "id": 4,
+    "name": "Club Sandwich",
+    "category": "Meals",
+    "price": 420,
+    "emoji": "🥪",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=85",
+    "tag": "Fresh",
+    "description": "Triple-layer toast with chicken, egg, crunchy vegetables and mayo."
+  },
+  {
+    "id": 5,
+    "name": "Chocolate Brownie",
+    "category": "Desserts",
+    "price": 220,
+    "emoji": "🍫",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85",
+    "tag": "Sweet treat",
+    "description": "A rich, fudgy chocolate brownie baked fresh for your break."
+  },
+  {
+    "id": 6,
+    "name": "Iced Coffee",
+    "category": "Drinks",
+    "price": 280,
+    "emoji": "🧋",
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=900&q=85",
+    "tag": "Chilled",
+    "description": "Smooth chilled coffee with milk and a light coffee foam."
+  },
+  {
+    "id": 7,
+    "name": "Fresh Lemon Mint",
+    "category": "Drinks",
+    "price": 180,
+    "emoji": "🍋",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?auto=format&fit=crop&w=900&q=85",
+    "tag": "Refreshing",
+    "description": "Fresh lemon, mint and sparkling-cool refreshment."
+  },
+  {
+    "id": 8,
+    "name": "Veggie Pasta Bowl",
+    "category": "Meals",
+    "price": 360,
+    "emoji": "🍝",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=85",
+    "tag": "Veggie",
+    "description": "Pasta tossed with seasonal vegetables in a savoury tomato sauce."
+  }
+]
